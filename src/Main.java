@@ -124,6 +124,7 @@ public class Main {
                 }
             }
         }
+        System.out.println("***\n");
     }
 
     public static void task_9(int k, int[] array) {
